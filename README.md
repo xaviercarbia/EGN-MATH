@@ -11,5 +11,8 @@ https://colab.research.google.com/drive/1fwkreOdsfJrfmsduHTOGQ80RYlXK6PyL?usp=sh
 Engineering Mathematics Paper on Overleaf
 https://www.overleaf.com/project/626c1f6f091a549db9d17f1d
 
+Engineering Mathematics PowerPoint
+https://docs.google.com/presentation/d/1A-y5i6--tgJP0rRgg7Bsnco8WG1eFFT6rMEDzu5HTgM/edit#slide=id.g126a754ede1_2_20
+
 Artificial Intelligence in Companies 
 https://www.techchannel.news/05/10/2020/ibm-to-work-with-advertising-industry-to-fuel-adoption-of-ai/
