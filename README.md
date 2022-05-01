@@ -2,6 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/f9/8d/9e/f98d9e62417d7ad9785e0bda551f547e.jpg">
 <img src="https://www.queensu.ca/artsci_online/sites/default/files/styles/hero_image/public/img/course/math_225-lighting_lines.jpg?itok=q8JnQHAv">
+<img src="https://en.unesco.org/sites/default/files/ai-in-education-2.jpg">
 Spring-Mass Model
 https://colab.research.google.com/drive/1nNaYzVRRk14T34azgX-LV4IeTGCHHf_F?usp=sharing
 
