@@ -1,6 +1,6 @@
 # EGN-MATH
 
-
+<img src="https://i.pinimg.com/originals/f9/8d/9e/f98d9e62417d7ad9785e0bda551f547e.jpg">
 Spring-Mass Model
 https://colab.research.google.com/drive/1nNaYzVRRk14T34azgX-LV4IeTGCHHf_F?usp=sharing
 
